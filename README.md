@@ -1,2 +1,2 @@
 # About :
-## This repository contains code for CNN model train with adversial inputs.
+This repository contains code for CNN model which is train with preturbed inputs.
