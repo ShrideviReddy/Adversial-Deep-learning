@@ -9,3 +9,5 @@ Adversarial machine learning is a technique employed in the field of machine lea
 Training with preturbed input is straight-forward way to deal with adversial attack. 
 This project focuses on building robust CNN model and trying to gain insight of model by using different interpretation technique.
 (Still working on few interpretation technique. We will update once done)
+
+Source: https://en.wikipedia.org/wiki/Adversarial_machine_learning
