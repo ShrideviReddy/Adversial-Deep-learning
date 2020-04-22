@@ -10,4 +10,5 @@ Training with preturbed input is straight-forward way to deal with adversial att
 This project focuses on building robust CNN model and trying to gain insight of model by using different interpretation technique.
 (Still working on few interpretation technique. We will update once done)
 
-Source: https://en.wikipedia.org/wiki/Adversarial_machine_learning
+Reference: https://en.wikipedia.org/wiki/Adversarial_machine_learning
+Image source: https://miro.medium.com/fit/c/1838/551/1*i52xqXAc4qUn5qh7m47iKA.png
